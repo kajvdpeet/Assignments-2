@@ -1,5 +1,6 @@
 
-### Adrian Vargas López
+ADRIAN VARGAS LÓPEZ
+===================
 ### Bisschop Zwijsenstraat 76 A 5021 KC Tilburg, the Netherlands
 ### Mobile + (52) 55 27 29 68 75       Skype: adrianvl13
 ### E-mail: adrianvl13@gmail.com and a.vargaslopez@tilburguniversity.edu
@@ -157,6 +158,8 @@ ADDITIONAL INFORMATION
 ======================
 * Language Skills: Native in Spanish, Fluent in English and Basic in French and Portuguese.
 
-* Computer: Microsoft Office; Econometric Software: STATA, E-Views, SPSS, Minitab; Additional Software: SAS, Bloomberg, Reuters, Graphmatica and Matlab.
+* Computer: Microsoft Office 
+* Econometric Software: STATA, E-Views, SPSS, Minitab 
+* Additional Software: SAS, Bloomberg, Reuters, Graphmatica and Matlab.
 
 * Enjoy biking, reading, baseball, and indie music. 
