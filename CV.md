@@ -1,7 +1,8 @@
-% Adrian Vargas López
-% Bisschop Zwijsenstraat 76 A 5021 KC Tilburg, the Netherlands
-% Mobile + (52) 55 27 29 68 75       Skype: adrianvl13
-% E-mail: adrianvl13@gmail.com and a.vargaslopez@tilburguniversity.edu
+
+### Adrian Vargas López
+### Bisschop Zwijsenstraat 76 A 5021 KC Tilburg, the Netherlands
+### Mobile + (52) 55 27 29 68 75       Skype: adrianvl13
+### E-mail: adrianvl13@gmail.com and a.vargaslopez@tilburguniversity.edu
 
 - - -
 
