@@ -4,9 +4,9 @@ ADRIAN VARGAS LÓPEZ
 
 PERSONAL INFORMATION
 --------------------
-### Bisschop Zwijsenstraat 76 A 5021 KC Tilburg, the Netherlands
-### Mobile + (52) 55 27 29 68 75       Skype: adrianvl13
-### E-mail: adrianvl13@gmail.com and a.vargaslopez@tilburguniversity.edu
+Bisschop Zwijsenstraat 76 A 5021 KC Tilburg, the Netherlands
+Mobile + (52) 55 27 29 68 75       Skype: adrianvl13
+E-mail: adrianvl13@gmail.com and a.vargaslopez@tilburguniversity.edu
 
 - - -
 
@@ -25,7 +25,7 @@ EDUCATION
 - - - 
 
 PROFESSIONAL EXPERIENCE
-=======================
+-----------------------
   
 ### CENTER FOR LATIN AMERICAN MONETARY STUDIES (CEMLA), Mexico City, Mexico
 > Economist, Public Debt Programs Coordination
@@ -77,7 +77,7 @@ PROFESSIONAL EXPERIENCE
 - - - 
 
 PUBLICATIONS  
-============
+------------
 
 * Primer Seminario de Monitoreo de Programas Sociales: Implementación de la Matriz de Indicadores para Resultados en México, (with 
 Freddy Urbina, José Del Muro and Edgar Martínez), CONEVAL, 2014.  Mexico City, Mexico. (Only available in Spanish at – 
@@ -86,7 +86,7 @@ http://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/
 - - - 
 
 PROFESSIONAL DEVELOPMENT
-========================
+------------------------
 
 ### EdX and INTERNATIONAL MONETARY FUND (IMF)
 > Online honor code certificate in “Debt Sustainability Analysis”
@@ -111,7 +111,7 @@ PROFESSIONAL DEVELOPMENT
 - - - 
 
 COMMUNITY ACTIVITIES
-====================
+--------------------
 
 ### TECHO, NON-PROFIT ORGANIZATION, Puebla, Mexico
 > Volunteer
@@ -125,7 +125,7 @@ COMMUNITY ACTIVITIES
 - - - 
 
 ACHIEVEMENTS AND AWARDS
-=======================
+-----------------------
 
 ### ACADEMY AWARD FOR EXCELLENCE AND ENTAILMENT (ITESM), Mexico City, Mexico
 > Recognition of “Entailment Award” 
@@ -134,7 +134,7 @@ ACHIEVEMENTS AND AWARDS
 - - - 
 
 EXTRA CURRICULAR ACTIVITIES
-===========================
+---------------------------
 
 ### CONCEPTO RADIAL (ITESM UNIVERSITY RADIO 94.9 FM), Mexico City, Mexico
 > Producer, Broadcaster and Console Operator
@@ -158,10 +158,10 @@ EXTRA CURRICULAR ACTIVITIES
 - - - 
 
 ADDITIONAL INFORMATION
-======================
+----------------------
+
 * Language Skills: Native in Spanish, Fluent in English and Basic in French and Portuguese.
 
-* Computer: Microsoft Office 
 * Econometric Software: STATA, E-Views, SPSS, Minitab 
 * Additional Software: SAS, Bloomberg, Reuters, Graphmatica and Matlab.
 
